@@ -74,8 +74,6 @@ I’m a passionate developer who enjoys building modern web applications and lea
 ---
 
 <details>
-
-# PROJECTS
 <summary> Projects -> </summary>
 
 
