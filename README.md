@@ -1,6 +1,6 @@
-# Protfolio | Vishnu Haridhas
+Protfolio | Vishnu Haridhas
 
-### MERN Stack Developer | Frontend Developer | Problem Solver
+MERN Stack Developer | Frontend Developer
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -13,24 +13,24 @@ I’m a passionate developer who enjoys building modern web applications and lea
 
 ---
 
-# Connect With 
+Connect With 
 
 <p align="left">
 
 <a href="https://github.com/vishnu-haridhas" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="50" />
+  <img src="https://skillicons.dev/icons?i=github" width="30" />
 </a>
 
 <a href="linkedin.com/in/vishnu-haridhas-657201345" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="30" />
 </a>
 
 <a href="connect.vishnuharidhas@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  <img src="https://skillicons.dev/icons?i=gmail" width="30" />
 </a>
 
 <a href="github.com/vishnu-haridhas/github-portfolio" target="_blank">
-  <img src="https://skillicons.dev/icons?i=git-portfolio" width="50" />
+  <img src="https://skillicons.dev/icons?i=portfolio" width="30" />
 </a>
 
 </p>
@@ -41,8 +41,10 @@ I’m a passionate developer who enjoys building modern web applications and lea
 
 # Tech Stack
 
-## Frontend
 
+<details>
+<summary> Frontend -> </summary>
+  
 * HTML5
 * CSS3
 * JavaScript (ES6+)
@@ -50,29 +52,39 @@ I’m a passionate developer who enjoys building modern web applications and lea
 * Bootstrap
 * Tailwind CSS
 
-## Backend
+</details>
+
+<details>
+<summary> Backend -> </summary>
 
 * Node.js
 * Express.js
 * REST API
 
-## Database
+</details>
+
+<details>
+<summary> Database -> </summary>
 
 * MongoDB
 * MySQL
 
-## Tools
+</details>
+
+<details>
+<summary> Tools -> </summary>
 
 * Git & GitHub
 * VS Code
 * Postman
 * Figma
 
-
+</details>
 
 
 ---
 
+# projects
 <details>
 <summary> Projects -> </summary>
 
@@ -143,7 +155,7 @@ Django REST Framework, PostgreSQL, HTML, CSS
 
 ---
 
-# Currently Working On
+Currently Working On
 
 * MERN Stack Projects
 * API Integration
