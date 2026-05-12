@@ -13,9 +13,33 @@ I’m a passionate developer who enjoys building modern web applications and lea
 
 ---
 
-<details>
+# Connect With 
 
-# <summary> Tech Stack </summary>
+<p align="left">
+
+<a href="https://github.com/vishnu-haridhas" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="50" />
+</a>
+
+<a href="linkedin.com/in/vishnu-haridhas-657201345" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+</a>
+
+<a href="connect.vishnuharidhas@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+</a>
+
+<a href="github.com/vishnu-haridhas/github-portfolio" target="_blank">
+  <img src="https://skillicons.dev/icons?i=git-portfolio" width="50" />
+</a>
+
+</p>
+
+
+---
+
+
+# Tech Stack
 
 ## Frontend
 
@@ -45,11 +69,15 @@ I’m a passionate developer who enjoys building modern web applications and lea
 * Figma
 
 
-</details>
+
 
 ---
 
-# Projects
+<details>
+
+# PROJECTS
+<summary> Projects -> </summary>
+
 
 ## -> Movie CRUD App
 
@@ -111,13 +139,7 @@ Django REST Framework, PostgreSQL, HTML, CSS
  Creative Problem Solver
 ```
 
----
-
-# Connect With 
-
-* GitHub: ([https://github.com/your-github-username](https://github.com/vishnu-haridhas)
-* LinkedIn: ([https://linkedin.com/in/your-linkedin](linkedin.com/in/vishnu-haridhas-657201345)
-* Portfolio:([https://your-portfolio-link.com](https://github.com/vishnu-haridhas/github-portfolio)
+</details>
 
 ---
 
@@ -132,7 +154,6 @@ Django REST Framework, PostgreSQL, HTML, CSS
 
 ---
 
-# Thanks for Visiting My Profile
 
 
 
