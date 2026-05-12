@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vishnu Haridhas
+# Protfolio | Vishnu Haridhas
 
 ### MERN Stack Developer | Frontend Developer | Problem Solver
 
@@ -6,15 +6,16 @@
 
 I’m a passionate developer who enjoys building modern web applications and learning new technologies. I love creating responsive UI designs, working with APIs, and developing full-stack applications using the MERN stack.
 
-* 🌱 Currently learning **Advanced MERN Stack Development**
-* 💻 Interested in **Frontend Development & Full Stack Projects**
-* 🚀 Building projects using **React, Node.js, Express & MongoDB**
-* 📫 Reach me at: **[your-email@gmail.com](mailto:your-email@gmail.com)**
-* ⚡ Fun fact: I enjoy turning ideas into real web applications.
+* Currently learning **Advanced MERN Stack Development**
+* Interested in **Frontend Development & Full Stack Projects**
+* Building projects using **React, Node.js, Express & MongoDB**
+* Reach me at: **[connect.vishnuharidhasgmail.com)**
 
 ---
 
-# 🚀 Tech Stack
+<details>
+
+<summary> Tech Stack </summary>
 
 ## Frontend
 
@@ -43,11 +44,14 @@ I’m a passionate developer who enjoys building modern web applications and lea
 * Postman
 * Figma
 
+
+</details>
+
 ---
 
-# 📌 Featured Projects
+# Projects
 
-## 🎬 Movie CRUD App
+## -> Movie CRUD App
 
 A movie management application where users can add, update, delete, and manage movie details.
 
@@ -64,7 +68,7 @@ React.js, CSS, Fake API
 
 ---
 
-## 👨‍💼 HireMe Job Portal
+## -> HireMe Job Portal
 
 A simple job portal platform where users can upload resumes and profile photos to apply for jobs.
 
@@ -81,7 +85,7 @@ React.js, Node.js, Express.js, MongoDB
 
 ---
 
-## 🌍 Tourist Destination App
+## -> Tourist Destination App
 
 A CRUD-based tourist destination management application.
 
@@ -99,31 +103,27 @@ Django REST Framework, PostgreSQL, HTML, CSS
 
 ---
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 ```txt
-🔥 Consistent Learner
-🚀 Passionate Developer
-💡 Creative Problem Solver
+ Consistent Learner
+ Passionate Developer
+ Creative Problem Solver
 ```
 
 ---
 
-# 🌐 Connect With Me
+# Connect With 
 
-* GitHub: [https://github.com/your-github-username](https://github.com/your-github-username)
-* LinkedIn: [https://linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
-* Portfolio: [https://your-portfolio-link.com](https://your-portfolio-link.com)
-
----
-
-# ✨ Developer Quote
-
-> “Code is not just syntax. It is the process of solving problems and creating experiences.”
+* GitHub: ([https://github.com/your-github-username](https://github.com/vishnu-haridhas)
+* LinkedIn: ([https://linkedin.com/in/your-linkedin](linkedin.com/in/vishnu-haridhas-657201345)
+* Portfolio:([https://your-portfolio-link.com](https://github.com/vishnu-haridhas/github-portfolio)
 
 ---
 
-# 🧠 Currently Working On
+---
+
+# Currently Working On
 
 * MERN Stack Projects
 * API Integration
@@ -132,9 +132,7 @@ Django REST Framework, PostgreSQL, HTML, CSS
 
 ---
 
-# 🙌 Thanks for Visiting My Profile
-
-If you like my projects, feel free to ⭐ my repositories and connect with me.
+# Thanks for Visiting My Profile
 
 
 
